@@ -1,4 +1,20 @@
 DFS Algorithm Routing Visualizer
 
-DFS is a graph traversal algorithm that explores as far as possible along each branch before backtracking. It works like exploring a maze by going deep into one path until you can’t go further, then stepping back and trying a new path.
+A Java-based interactive visualizer for Depth-First Search (DFS) using JavaFX and GraphStream. This program allows users to input or modify graphs, perform DFS traversal, and visualize routing paths between two nodes based on the DFS tree.
+
+Features
+
+Visual implementation of Depth-First Search (DFS).
+Supports custom or default graphs.
+Interactive graph modification: add/remove nodes or edges.
+Live traversal and visualization of DFS tree and routing paths.
+
+Tools used
+
+Java 17
+Java FX
+Graphstream
+IntelliJ IDEA
+
+How to run 
 
