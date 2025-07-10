@@ -11,10 +11,14 @@ Live traversal and visualization of DFS tree and routing paths.
 
 Tools used
 
-Java 17
-Java FX
-Graphstream
-IntelliJ IDEA
+Java 17,
+Java FX,
+Graphstream,
+IntelliJ IDEA.
 
 How to run 
+
+Copy this repository https://github.com/MuntazirMalik/Routing-algorithm.git
+
+
 
