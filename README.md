@@ -20,5 +20,7 @@ How to run
 
 Copy this repository https://github.com/MuntazirMalik/Routing-algorithm.git
 
+Run the program in the IDE and choose any of the options you want to perform in the program.
+
 
 
